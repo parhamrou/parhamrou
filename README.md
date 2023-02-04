@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm Parham Roufarshbaf, A CE BS'c student at Amirkabir
+University of Technology. 
+- 🌱 I’m currently learning data science and machine learning.
+- 💬 Ask me about NOTHING :))
+- 📫 How to reach me: parhamrou@aut.ac.ir
 
 <!--
 **parhamrou/parhamrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
