@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Parham Roufarshbaf, A CE BS'c student at Amirkabir
+I'm Parham Roufarshbaf, a Bachelor CE student at Amirkabir
 University of Technology. 
 - 🌱 I’m currently learning data science and machine learning.
 - 💬 Ask me about NOTHING :))
