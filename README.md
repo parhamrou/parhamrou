@@ -2,7 +2,7 @@
 I'm Parham Roufarshbaf, a Bachelor CE student at Amirkabir
 University of Technology. 
 - 🌱 I’m currently learning data science and machine learning.
-- 💬 Ask me about NOTHING :))
+- 💬 Ask me about how to be passionate & productive :))
 - 📫 How to reach me: parhamrou@aut.ac.ir
 
 <!--
